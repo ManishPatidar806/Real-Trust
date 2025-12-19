@@ -1,4 +1,4 @@
-# Portfolio Management Application
+# Real Trust Application
 
 A full-stack web application for managing and showcasing projects, client testimonials, contact forms, and newsletter subscriptions. Built with modern technologies and deployed on cloud platforms.
 
@@ -6,7 +6,7 @@ A full-stack web application for managing and showcasing projects, client testim
 
 ### Public Landing Page
 - **Hero Section**: Eye-catching introduction with call-to-action buttons
-- **Projects Section**: Dynamic display of portfolio projects with images and descriptions
+- **Projects Section**: Dynamic display projects with images and descriptions
 - **Happy Clients Section**: Client testimonials with photos and designations
 - **Contact Form**: Fully functional contact form with validation
 - **Newsletter Subscription**: Email subscription with duplicate detection

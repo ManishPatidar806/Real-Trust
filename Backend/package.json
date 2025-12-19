@@ -1,7 +1,7 @@
 {
-  "name": "portfolio-backend",
+  "name": "real-trust-backend",
   "version": "1.0.0",
-  "description": "Backend API for portfolio management application",
+  "description": "Backend API for real-trust application",
   "main": "server.js",
   "type": "module",
   "scripts": {
