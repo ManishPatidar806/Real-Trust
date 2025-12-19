@@ -1,0 +1,14 @@
+Backend/node_modules/
+Backend/dist/
+build/
+Backend/.env
+Backend/.env.local
+Backend/.env.production
+*.log
+.DS_Store
+uploads/
+coverage/
+.vscode/
+.idea/
+Frontend/node_modules/
+Frontend/.env
