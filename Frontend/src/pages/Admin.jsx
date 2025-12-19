@@ -42,7 +42,7 @@ const Admin = () => {
   const handleProjectSubmit = async (e) => {
     e.preventDefault();
     if (!projectForm.image) {
-      setMessage({ type: 'error', text: 'Please upload and crop an image' });
+      setMessage({ type: 'error', text: 'Please upload an image' });
       return;
     }
 
@@ -68,7 +68,7 @@ const Admin = () => {
   const handleClientSubmit = async (e) => {
     e.preventDefault();
     if (!clientForm.image) {
-      setMessage({ type: 'error', text: 'Please upload and crop an image' });
+      setMessage({ type: 'error', text: 'Please upload an image' });
       return;
     }
 
