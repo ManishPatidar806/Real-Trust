@@ -58,7 +58,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-cd /media/mohit/Projects2/FliprProject
+git clone https://github.com/ManishPatidar806/Real-Trust.git
 ```
 
 ### 2. Backend Setup
